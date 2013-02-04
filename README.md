@@ -1,0 +1,5 @@
+Ambry is a digital asset management and repository system for display and long term preservation of digital objects. Built on the backs of the Hydra, ScholarSphere, and CINCH projects.
+
+ScholarSphere, built upon the Hydra framework provides an excellent for the ingestion, display and long term preservation of digital objects. The CINCH project solves a problem common to many libraries and archives. How do I get stakeholders to contribute materials, be they faculty research or government publications, to a repository? CINCH takes a list of files, downloads each one, provides virus checking, before and after checksums, metadata extraction, and packages up the results in a downloadable zip file(s) for ingestion into a system such as ScholarSphere or CONTENTdm.
+
+Ambry aims to complete this circle by allowing users to add content themselves or provide a list of files to download and have them automatically ingested into the Ambry system. Download lists can be generated from an external source such as an Internet Archive crawl report or via the web crawler and FTP client built into Ambry itself.
